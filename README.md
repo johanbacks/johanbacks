@@ -1,4 +1,4 @@
-### Hi, I'am Johan Back <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
+### Hi, I'am Johan Back <img width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
 
 <!--
